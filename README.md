@@ -26,4 +26,3 @@ A responsive and modern frontend travel website built using HTML, CSS, JavaScrip
 | Fonts/Icons  | Font Awesome, Google Fonts |
 
 ---
-# Empirica-Travel
